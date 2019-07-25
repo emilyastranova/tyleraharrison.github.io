@@ -1,0 +1,14 @@
+.normal {
+  color: black;  # Font color
+  font-family: "Arial";
+  font-style: italic;
+}
+
+body {
+  background-image: url("https://wallpapercave.com/wp/wp2222402.jpg");
+}
+
+h1 {
+  color: navy;
+  margin-left: 20px;
+}
