@@ -164,3 +164,22 @@ h1 {
 #SamFlynn > .mdl-card__title {
   background: url('assets/samFlynn.jpg') center/cover;
 }
+
+#FalconSite {
+  top: 480px;
+  height: 430px;
+}
+
+#FalconSite > .mdl-card__title {
+  background: url('assets/falconSite.jpg') center/cover;
+}
+
+#astrOS {
+  top: 480px;
+  height: 430px;
+  left: 600px;
+}
+
+#astrOS > .mdl-card__title {
+  background: url('assets/astrOS.jpg') center/cover;
+}
