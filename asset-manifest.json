@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/static/css/main.95cb04bf.chunk.css",
-    "main.js": "/static/js/main.7f6265b5.chunk.js",
-    "main.js.map": "/static/js/main.7f6265b5.chunk.js.map",
+    "main.css": "/static/css/main.67264c9f.chunk.css",
+    "main.js": "/static/js/main.c742a14d.chunk.js",
+    "main.js.map": "/static/js/main.c742a14d.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.5c80f6f3.js",
     "runtime-main.js.map": "/static/js/runtime-main.5c80f6f3.js.map",
     "static/js/2.05e33fb8.chunk.js": "/static/js/2.05e33fb8.chunk.js",
@@ -10,7 +10,7 @@
     "static/js/3.ab2a2cb2.chunk.js": "/static/js/3.ab2a2cb2.chunk.js",
     "static/js/3.ab2a2cb2.chunk.js.map": "/static/js/3.ab2a2cb2.chunk.js.map",
     "index.html": "/index.html",
-    "static/css/main.95cb04bf.chunk.css.map": "/static/css/main.95cb04bf.chunk.css.map",
+    "static/css/main.67264c9f.chunk.css.map": "/static/css/main.67264c9f.chunk.css.map",
     "static/js/2.05e33fb8.chunk.js.LICENSE.txt": "/static/js/2.05e33fb8.chunk.js.LICENSE.txt",
     "static/media/art1.5be5609a.jpg": "/static/media/art1.5be5609a.jpg",
     "static/media/art2.3d4c35d9.jpg": "/static/media/art2.3d4c35d9.jpg",
@@ -20,25 +20,24 @@
     "static/media/art6.a21c9942.jpg": "/static/media/art6.a21c9942.jpg",
     "static/media/art7.55f001b2.jpg": "/static/media/art7.55f001b2.jpg",
     "static/media/art8.12aa5860.jpg": "/static/media/art8.12aa5860.jpg",
-    "static/media/icon_ashes_2.4e616fd4.png": "/static/media/icon_ashes_2.4e616fd4.png",
-    "static/media/icon_ashestoash.7f179fb0.png": "/static/media/icon_ashestoash.7f179fb0.png",
-    "static/media/icon_boba.3810bf70.png": "/static/media/icon_boba.3810bf70.png",
-    "static/media/icon_boba_1.e53f2ea4.png": "/static/media/icon_boba_1.e53f2ea4.png",
-    "static/media/icon_cardio_2.8ca64d8e.png": "/static/media/icon_cardio_2.8ca64d8e.png",
-    "static/media/icon_cardiocasino.9ea61d18.png": "/static/media/icon_cardiocasino.9ea61d18.png",
-    "static/media/icon_coffeelings.bbb81d4f.png": "/static/media/icon_coffeelings.bbb81d4f.png",
-    "static/media/icon_coffeelings_2.8e1edd6e.png": "/static/media/icon_coffeelings_2.8e1edd6e.png",
-    "static/media/icon_daince.9d5761ba.png": "/static/media/icon_daince.9d5761ba.png",
-    "static/media/icon_daince_1.a947b962.png": "/static/media/icon_daince_1.a947b962.png",
-    "static/media/icon_gm.098b2167.png": "/static/media/icon_gm.098b2167.png",
-    "static/media/icon_gm_1.d932c91a.png": "/static/media/icon_gm_1.d932c91a.png",
+    "static/media/icon_FIMLogo.c96e7a8a.png": "/static/media/icon_FIMLogo.c96e7a8a.png",
+    "static/media/icon_dasher.7a030ba5.png": "/static/media/icon_dasher.7a030ba5.png",
+    "static/media/icon_dasher2.620653f5.png": "/static/media/icon_dasher2.620653f5.png",
+    "static/media/icon_electriciTech.d4c21974.png": "/static/media/icon_electriciTech.d4c21974.png",
+    "static/media/icon_falconSite.cf7f5739.png": "/static/media/icon_falconSite.cf7f5739.png",
+    "static/media/icon_robot.4555a466.png": "/static/media/icon_robot.4555a466.png",
+    "static/media/icon_samFlynn.ea09c23c.png": "/static/media/icon_samFlynn.ea09c23c.png",
+    "static/media/icon_samFlynn2.6911fb50.png": "/static/media/icon_samFlynn2.6911fb50.png",
+    "static/media/icon_stars.97101f01.png": "/static/media/icon_stars.97101f01.png",
+    "static/media/icon_systemPossibleAlt.2728b561.png": "/static/media/icon_systemPossibleAlt.2728b561.png",
     "static/media/profile.ebf7e855.jpg": "/static/media/profile.ebf7e855.jpg",
-    "static/media/resume.20a13ff0.pdf": "/static/media/resume.20a13ff0.pdf"
+    "static/media/resume.617be420.pdf": "/static/media/resume.617be420.pdf",
+    "static/media/starCollection.c3da8614.png": "/static/media/starCollection.c3da8614.png"
   },
   "entrypoints": [
     "static/js/runtime-main.5c80f6f3.js",
     "static/js/2.05e33fb8.chunk.js",
-    "static/css/main.95cb04bf.chunk.css",
-    "static/js/main.7f6265b5.chunk.js"
+    "static/css/main.67264c9f.chunk.css",
+    "static/js/main.c742a14d.chunk.js"
   ]
 }
