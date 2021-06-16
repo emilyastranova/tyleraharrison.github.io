@@ -29,6 +29,13 @@
   scrollbar-color: #454a4d #202324;
 }
 
+#container {
+  position: relative;
+}
+#container canvas, #nokey {
+  position: absolute;
+}
+
 #contactInfo {
   position: absolute;
   top: 50%;
@@ -137,7 +144,7 @@ h1, h2, h3, h4, h5, h6, figure {
   bottom: 0;
   left: 0;
   right: 0;
-  background: hsla(0, 0%, 12%, 0.902);
+  /* background: hsla(0, 0%, 12%, 0.902); */
 }
 #fh5co-header .display-t,
 .fh5co-cover .display-t {
@@ -199,6 +206,9 @@ h1, h2, h3, h4, h5, h6, figure {
   margin-right: -30px;
 }
 @media screen and (max-width: 768px) {
+  #container canvas, #nokey {
+    max-height: 0px;
+  }
   #fh5co-header .display-tc h1,
   .fh5co-cover .display-tc h1 {
     font-size: 34px;
