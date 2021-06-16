@@ -29,6 +29,14 @@
   scrollbar-color: #454a4d #202324;
 }
 
+.topStack{
+  z-index: 100 !important;
+}
+
+.bottomStack{
+  z-index: -1 !important;
+}
+
 .helveticaFont p{
   font-family: "Helvetica-Light";
 }
