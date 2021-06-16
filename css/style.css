@@ -29,6 +29,12 @@
   scrollbar-color: #454a4d #202324;
 }
 
+#contactInfo {
+  position: absolute;
+  top: 50%;
+  transform: translateY(-50%);
+}
+
 .topStack{
   z-index: 100 !important;
 }
@@ -382,7 +388,7 @@ h1, h2, h3, h4, h5, h6, figure {
   padding-top: 0;
 }
 .info li .first-block {
-  width: 40%;
+  width: 20%;
   display: inline-block;
   /* float: left; */
   color: #000;
